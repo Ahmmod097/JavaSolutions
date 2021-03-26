@@ -1,4 +1,9 @@
-# Java Solutions (DSP)
+# Problem Statement
+Suppose, you are starting a small business. So, you need to keep a ledger for all the buys, sells, and
+available balance on your account. When you run the program, it will be able to accept
+command line inputs. And, will show the result in the command line. When engaging with
+the command line, it will give you options to add a product, delete a product, buy a product, sell a product, 
+see the list of products and check available balance.
 
 # To Run:
  
